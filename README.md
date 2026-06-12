@@ -9,7 +9,7 @@ A collection of my projects and contributions on GitHub.
 | 3 | Grover-cancer-therapy-optimizer | Jupyter Notebook | [AdithyanandanArun/Grover-cancer-therapy-optimizer](https://github.com/AdithyanandanArun/Grover-cancer-therapy-optimizer) |
 | 4 | Code-and-chaos | Python | [AdithyanandanArun/Code-and-chaos](https://github.com/AdithyanandanArun/Code-and-chaos) |
 | 5 | NeuralFix | JavaScript | [AdithyanandanArun/NeuralFix](https://github.com/AdithyanandanArun/NeuralFix) |
-| 6 | Code-with-chaos  | — | [AdithyanandanArun/Code-with-chaos](https://github.com/AdithyanandanArun/Code-with-chaos) |
+| 6 | Code-with-chaos (Ongoing)  | — | [AdithyanandanArun/Code-with-chaos](https://github.com/AdithyanandanArun/Code-with-chaos) |
 | 7 | openagent-hub | TypeScript | [AdithyanandanArun/openagent-hub](https://github.com/AdithyanandanArun/openagent-hub) |
 | 8 | JananiAI  | JavaScript | [AdithyanandanArun/JananiAI](https://github.com/AdithyanandanArun/JananiAI) |
 | 9 | SVM-Project | Jupyter Notebook | [AdithyanandanArun/SVM-Project](https://github.com/AdithyanandanArun/SVM-Project) |
