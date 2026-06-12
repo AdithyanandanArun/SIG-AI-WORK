@@ -9,13 +9,12 @@ A collection of my projects and contributions on GitHub.
 | 3 | Grover-cancer-therapy-optimizer | Jupyter Notebook | [AdithyanandanArun/Grover-cancer-therapy-optimizer](https://github.com/AdithyanandanArun/Grover-cancer-therapy-optimizer) |
 | 4 | Code-and-chaos | Python | [AdithyanandanArun/Code-and-chaos](https://github.com/AdithyanandanArun/Code-and-chaos) |
 | 5 | NeuralFix | JavaScript | [AdithyanandanArun/NeuralFix](https://github.com/AdithyanandanArun/NeuralFix) |
-| 6 | Code-with-chaos (Ongoing)  | — | [AdithyanandanArun/Code-with-chaos](https://github.com/AdithyanandanArun/Code-with-chaos) |
-| 7 | openagent-hub | TypeScript | [AdithyanandanArun/openagent-hub](https://github.com/AdithyanandanArun/openagent-hub) |
-| 8 | JananiAI  | JavaScript | [AdithyanandanArun/JananiAI](https://github.com/AdithyanandanArun/JananiAI) |
-| 9 | SVM-Project | Jupyter Notebook | [AdithyanandanArun/SVM-Project](https://github.com/AdithyanandanArun/SVM-Project) |
-| 10 | Portfolio-Website | HTML | [AdithyanandanArun/Portfolio-Website](https://github.com/AdithyanandanArun/Portfolio-Website) |
-| 11 | TechBuddies | Python | [AdithyanandanArun/TechBuddies](https://github.com/AdithyanandanArun/TechBuddies) |
-| 12 | Online-Course-Enrollment | Java | [AdithyanandanArun/Online-Course-Enrollment](https://github.com/AdithyanandanArun/Online-Course-Enrollment) |
+| 6 | openagent-hub (ongoing) | TypeScript | [AdithyanandanArun/openagent-hub](https://github.com/AdithyanandanArun/openagent-hub) |
+| 7 | JananiAI  | JavaScript | [AdithyanandanArun/JananiAI](https://github.com/AdithyanandanArun/JananiAI) |
+| 8 | SVM-Project | Jupyter Notebook | [AdithyanandanArun/SVM-Project](https://github.com/AdithyanandanArun/SVM-Project) |
+| 9 | Portfolio-Website | HTML | [AdithyanandanArun/Portfolio-Website](https://github.com/AdithyanandanArun/Portfolio-Website) |
+| 10 | TechBuddies | Python | [AdithyanandanArun/TechBuddies](https://github.com/AdithyanandanArun/TechBuddies) |
+| 11 | Online-Course-Enrollment | Java | [AdithyanandanArun/Online-Course-Enrollment](https://github.com/AdithyanandanArun/Online-Course-Enrollment) |
 
 ---
 
